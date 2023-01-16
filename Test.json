@@ -1,8 +1,4 @@
-[  {
-    "question": "Wie heißt der höchste Berg der Welt?",    
-    "answers": ["Mount Everest", "K2", "Kilimanjaro", "Mount Denali"],
-    "correct_answer": "Mount Everest"
-  },
+[  
   {
     "question": "Wie viele Kontinente gibt es?",
     "answers": ["5", "6", "7", "8"],
