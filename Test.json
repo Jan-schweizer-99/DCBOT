@@ -1,21 +1,23 @@
-[{
-		"question": "Wie viele Kontinente gibt es?",
-		"answers": ["5", "6", "7", "8"],
-		"correct_answer": "7"
-	},
-	{
-		"question": "Wie heißt der längste Fluss der Welt?",
-		"answers": ["Nil", "Amazonas", "Mississippi", "Yenisei"],
-		"correct_answer": "Nil"
-	},
-	{
-		"question": "Welches ist der größte Planet im Sonnensystem?",
-		"answers": ["Erde", "Mars", "Jupiter", "Saturn"],
-		"correct_answer": "Jupiter"
-	},
-	{
-		"question": "Wie heißt der größte Ozean der Welt?",
-		"answers": ["Pazifischer Ozean", "Atlantischer Ozean", "Indischer Ozean", "Arktischer Ozean"],
-		"correct_answer": "Pazifischer Ozean"
-	}
+[  {    "question": "Wie heißt der höchste Berg der Welt?",    "answer": "Mount Everest",    "possible_answers": ["Mount Everest", "K2", "Kilimanjaro", "Mount Denali"]
+  },
+  {
+    "question": "Wie heißt die Hauptstadt von Deutschland?",
+    "answer": "Berlin",
+    "possible_answers": ["Berlin", "München", "Hamburg", "Köln"]
+  },
+  {
+    "question": "Wie heißt der längste Fluss der Welt?",
+    "answer": "Nil",
+    "possible_answers": ["Nil", "Amazonas", "Mississippi", "Yangtze"]
+  },
+  {
+    "question": "Wie heißt der größte Planet im Sonnensystem?",
+    "answer": "Jupiter",
+    "possible_answers": ["Jupiter", "Saturn", "Erde", "Mars"]
+  },
+  {
+    "question": "Wie heißt der bekannteste US-amerikanische Präsident?",
+    "answer": "George Washington",
+    "possible_answers": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "Franklin D. Roosevelt"]
+  }
 ]
