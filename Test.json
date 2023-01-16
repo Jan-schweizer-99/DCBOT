@@ -1,22 +1,21 @@
-[  
-  {
-    "question": "Wie viele Kontinente gibt es?",
-    "answers": ["5", "6", "7", "8"],
-    "correct_answer": "7"
-  },
-  {
-    "question": "Wie heißt der längste Fluss der Welt?",
-    "answers": ["Nil", "Amazonas", "Mississippi", "Yenisei"],
-    "correct_answer": "Nil"
-  },
-  {
-    "question": "Welches ist der größte Planet im Sonnensystem?",
-    "answers": ["Erde", "Mars", "Jupiter", "Saturn"],
-    "correct_answer": "Jupiter"
-  },
-  {
-    "question": "Wie heißt der größte Ozean der Welt?",
-    "answers": ["Pazifischer Ozean", "Atlantischer Ozean", "Indischer Ozean", "Arktischer Ozean"],
-    "correct_answer": "Pazifischer Ozean"
-  }
+[{
+		"question": "Wie viele Kontinente gibt es?",
+		"answers": ["5", "6", "7", "8"],
+		"correct_answer": "7"
+	},
+	{
+		"question": "Wie heißt der längste Fluss der Welt?",
+		"answers": ["Nil", "Amazonas", "Mississippi", "Yenisei"],
+		"correct_answer": "Nil"
+	},
+	{
+		"question": "Welches ist der größte Planet im Sonnensystem?",
+		"answers": ["Erde", "Mars", "Jupiter", "Saturn"],
+		"correct_answer": "Jupiter"
+	},
+	{
+		"question": "Wie heißt der größte Ozean der Welt?",
+		"answers": ["Pazifischer Ozean", "Atlantischer Ozean", "Indischer Ozean", "Arktischer Ozean"],
+		"correct_answer": "Pazifischer Ozean"
+	}
 ]
