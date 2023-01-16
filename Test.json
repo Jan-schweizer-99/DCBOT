@@ -1,23 +1,53 @@
-[  {    "question": "Wie heißt der höchste Berg der Welt?",    "answer": "Mount Everest",    "possible_answers": ["Mount Everest", "K2", "Kilimanjaro", "Mount Denali"]
-  },
-  {
-    "question": "Wie heißt die Hauptstadt von Deutschland?",
-    "answer": "Berlin",
-    "possible_answers": ["Berlin", "München", "Hamburg", "Köln"]
-  },
-  {
-    "question": "Wie heißt der längste Fluss der Welt?",
-    "answer": "Nil",
-    "possible_answers": ["Nil", "Amazonas", "Mississippi", "Yangtze"]
-  },
-  {
-    "question": "Wie heißt der größte Planet im Sonnensystem?",
-    "answer": "Jupiter",
-    "possible_answers": ["Jupiter", "Saturn", "Erde", "Mars"]
-  },
-  {
-    "question": "Wie heißt der bekannteste US-amerikanische Präsident?",
-    "answer": "George Washington",
-    "possible_answers": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "Franklin D. Roosevelt"]
-  }
-]
+{
+	"questions": [{
+			"question": "Wie heißt der höchste Berg der Welt?",
+			"answer": "Mount Everest",
+			"possible_answers": [
+				"Mount Everest",
+				"K2",
+				"Kilimanjaro",
+				"Mount Denali"
+			]
+		},
+		{
+			"question": "Wie viele Bundesländer hat Deutschland?",
+			"answer": "16",
+			"possible_answers": [
+				"10",
+				"12",
+				"14",
+				"16"
+			]
+		},
+		{
+			"question": "Welches ist der größte Fluss Europas?",
+			"answer": "Volga",
+			"possible_answers": [
+				"Volga",
+				"Rhein",
+				"Donau",
+				"Wolga"
+			]
+		},
+		{
+			"question": "Welche Farbe hat eine reife Banane?",
+			"answer": "Gelb",
+			"possible_answers": [
+				"Grün",
+				"Gelb",
+				"Braun",
+				"Orange"
+			]
+		},
+		{
+			"question": "Wie heißt der höchste Wasserfall der Welt?",
+			"answer": "Angel Fall",
+			"possible_answers": [
+				"Niagara Fall",
+				"Victoria Fall",
+				"Iguazu Fall",
+				"Angel Fall"
+			]
+		}
+	]
+}
